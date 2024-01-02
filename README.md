@@ -31,15 +31,13 @@ Create atleast 9 different facial expressions by running the "data_collection.py
 
 # Step 3 
 Lastly in the "MUSIC.py" file, write "streamlit run MUSIC.py" in the terminal, then it will redirect you to the webpage and run the application on streamlit. It will ask for three inputs from you 
-![Screenshot (9)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/1b280f89-f029-4826-8ceb-1d03b72ba4fe)
+![Screenshot (10)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/5a53cb27-b67d-40e4-b892-dcfe1c855533)
 and then will detect the facial emotions 
+![Screenshot (9)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/1b280f89-f029-4826-8ceb-1d03b72ba4fe)
 ![Screenshot (5)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/cc301247-ffd1-474b-8204-b3d4b640f6de)
-
-and based on it you can search or use "recommed song from youtube" button to search songs on youtube, "play random songs from the database" based on emotion detected ,which is not provided here but, if you are willing to do this project you can connect me on linkedin and l will provide you the drive link for it and lastly use the "music generation button" to generate music with the help of mido module according to emotion detected. (The notes provided in the third button are piano notes).
-
-
-
+and based on it you can search or use "recommed songs from youtube" button to search songs on youtube, "play random songs from the database" based on emotion detected ,which is not provided here but, if you are willing to do this project you can connect me on linkedin and l will provide you the drive link for it 
 ![Screenshot (7)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/36581f61-e1e4-4e17-ac00-ef4bc3faee71)
+and lastly use the "music generation button" to generate music with the help of mido module according to emotion detected. (The notes provided in the third button are piano notes).
 ![Screenshot (8)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/18905856-007f-4c7e-a652-1c06ac4fdbec)
 
 
