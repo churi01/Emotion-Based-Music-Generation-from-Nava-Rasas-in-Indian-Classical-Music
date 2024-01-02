@@ -1,6 +1,5 @@
 # Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music
 # (The steps to run this project are explained below.)
-
 The integration of Navarasas in Indian classical music with emotion recognition, facial and hands landmark detection, Streamlit for web application, and the Mido module for music generation creates a comprehensive system that explores the intricate connection between emotions and musical expression.
 
 # Emotion Recognition and Navarasas:
@@ -21,7 +20,7 @@ The web application not only serves as a platform for music generation but also 
 In summary, this integrated system creates a captivating and interactive experience, bridging the gap between traditional Indian classical music, modern technology, and the exploration of human emotions through the expressive medium of music.
 
 # Steps to run this project:
-(Firstly pip install all the modules mentioned at the top of all the three files)
+(First, pip install all of the modules listed at the beginning of all three files.)
 # Step 1
 Run the "data_collection.py" file to detect the facial and handlandmark locations to create the dataset of your own. Give the user input a name (any name from the navarasas for whom you are creating the file).
 
