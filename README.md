@@ -22,7 +22,9 @@ In summary, this integrated system creates a captivating and interactive experie
 
 # Steps to run this project:
 # Step 1
-Run the data_collection.py file to detect the facial and handlandmark locations to create the dataset of your own.
-Give the user input a name (any name from the navarasas for whom you are creating the file). 
-![image](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/e5c34d81-7922-412f-b7c8-86e47239f8a4)
+Run the data_collection.py file to detect the facial and handlandmark locations to create the dataset of your own. Give the user input a name (any name from the navarasas for whom you are creating the file). 
+![Screenshot (2)](https://github.com/churi01/Emotion-Based-Music-Generation-from-Nava-Rasas-in-Indian-Classical-Music/assets/146198146/2d883ac2-84c4-4546-ade8-93212375f34b)
+# Step 2
+Create atleast 9 different facial expressions by running the data_collection.py file which will be saved as XYZ.npy files. Then run the data_training.py file to do the training on all the .npy files present in the folder. (I have provided the .npy files but i would recommed to create your own so the detection would be accurate).
+
 
